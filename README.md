@@ -31,7 +31,7 @@
 
 下载脚本并添加执行权限：
 ```bash
-wget https://raw.githubusercontent.com/cuihe500/certbot-auto/main/certbot-auto.sh
+wget https://raw.githubusercontent.com/cuihe500/certbot-auto/refs/heads/main/certbot-auto.sh
 chmod +x certbot-auto.sh
 ```
 
